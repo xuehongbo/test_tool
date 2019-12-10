@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='write_log_tool',
+    name='Write_Log_Tool',
     version='0.0.1',
     keywords='write log',
     description='a write log tool',
     license='MIT License',
-    url='https://github.com/xuehongbo/excel_driver',
+    url='https://github.com/xuehongbo/test_tool',
     author='HongBo Xue',
     author_email='505386086@qq.com',
     packages=find_packages(),

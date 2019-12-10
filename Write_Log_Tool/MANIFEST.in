@@ -1,0 +1,4 @@
+include LICENSE
+
+# Tests
+recursive-include write_log_tool *.py

@@ -1,4 +1,0 @@
-include LICENSE
-
-# Tests
-recursive-include dict_tool *.py
