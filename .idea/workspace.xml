@@ -13,7 +13,9 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/excel_driver/excel_driver/excel.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-182" />
+            <state relative-caret-position="285">
+              <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+            </state>
           </provider>
         </entry>
       </file>
@@ -21,6 +23,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/excel_driver/excel_driver/excel.py" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -56,12 +65,6 @@
               <item name="test_tool" type="462c0819:PsiDirectoryNode" />
               <item name="excel_driver" type="462c0819:PsiDirectoryNode" />
               <item name="dist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test_tool" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test_tool" type="462c0819:PsiDirectoryNode" />
-              <item name="excel_driver" type="462c0819:PsiDirectoryNode" />
-              <item name="excel_driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="test_tool" type="b2602c69:ProjectViewProjectNode" />
@@ -148,7 +151,9 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/excel_driver/excel_driver/excel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-182" />
+        <state relative-caret-position="285">
+          <caret line="21" column="11" selection-start-line="21" selection-start-column="11" selection-end-line="21" selection-end-column="11" />
+        </state>
       </provider>
     </entry>
   </component>
