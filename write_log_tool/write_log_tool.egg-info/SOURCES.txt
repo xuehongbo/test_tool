@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+write_log_tool/__init__.py
+write_log_tool/write_log.py
+write_log_tool.egg-info/PKG-INFO
+write_log_tool.egg-info/SOURCES.txt
+write_log_tool.egg-info/dependency_links.txt
+write_log_tool.egg-info/top_level.txt

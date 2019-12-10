@@ -1,15 +1,15 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='driver_excel-HongBoXue',
+    name='write_log_tool',
     version='0.0.1',
-    keywords='driver excel',
-    description='a driver excel tool',
+    keywords='write log',
+    description='a write log tool',
     license='MIT License',
-    url='https://github.com/xuehongbo/test_tool',
+    url='https://github.com/xuehongbo/excel_driver',
     author='HongBo Xue',
     author_email='505386086@qq.com',
     packages=find_packages(),
     platforms='any',
-    install_requires=['openpyxl==3.0.1'],
+    install_requires=[],
 )
