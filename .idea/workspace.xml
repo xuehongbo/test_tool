@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7636ce64-14b5-4db6-a866-2fd271ee3f18" name="Default Changelist" comment="" />
+    <list default="true" id="7636ce64-14b5-4db6-a866-2fd271ee3f18" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/excel_driver/excel_driver/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_driver" beforeDir="false" afterPath="$PROJECT_DIR$/excel_driver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_driver/driver_excel/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_driver/driver_excel/excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel_driver/excel_driver/excel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_driver/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/excel_driver/setup.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +41,16 @@
             <path>
               <item name="test_tool" type="b2602c69:ProjectViewProjectNode" />
               <item name="test_tool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_tool" type="462c0819:PsiDirectoryNode" />
+              <item name="excel_driver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="test_tool" type="b2602c69:ProjectViewProjectNode" />
+              <item name="test_tool" type="462c0819:PsiDirectoryNode" />
+              <item name="write_log_tool" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
